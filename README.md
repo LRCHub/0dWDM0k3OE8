@@ -1,0 +1,34 @@
+# Gary Moore – Still Got The Blues
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:19.19] Used to be so easy to give my heart away
+[00:27.40] But I found out that the hard way
+[00:31.32] There's a price you have to pay
+[00:35.34] I found out that love was no friend of mine
+[00:44.88] I should have known time after time
+[01:02.38] 
+[00:53.15] So long, it was so long ago
+[01:01.34] But I've still got the blues for you
+[01:19.34] 
+[01:10.81] Used to be so easy to fall in love again
+[01:19.89] But I found out that the hard way
+[01:23.83] It's a road that leads to pain
+[01:28.59] I found that love was more than just a game
+[01:37.55] You're playin' to win, but you lose just the same
+[02:02.05] 
+[01:45.83] So long, it was so long ago
+[01:54.62] But I've still got the blues for you
+[02:12.62] 
+[02:04.63] So many years since I've seen your face
+[02:12.49] Bit here in my heart, there's an empty space
+[02:20.77] Where you used to be
+[02:30.77] 
+[03:01.56] So long, it was so long ago
+[03:08.74] But I've still got the blues for you
+[03:26.74] 
+[03:16.62] Though the days come and go
+[03:21.36] There is one thing I know
+[03:25.81] I've still got the blues for you
+```
